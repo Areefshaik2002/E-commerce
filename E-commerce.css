@@ -1,3 +1,48 @@
+*{
+margin: 0;
+box-sizing: border-box;
+}
 .navbar-brand{
+    width: 10%;
+}
+.navbar{
+    background-color: purple;
+}
+.nav-link{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+}
+/* home */
+.bgimg{
+    background-image: url('https://img.freepik.com/premium-vector/super-sale-banner-autumn-paper-design-maple-leaves_7714-174.jpg?uid=R156931880&ga=GA1.1.178416125.1721973271&semt=sph');
+    width: 98vw;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
     
+}
+.hhead{
+    margin-top: 2%;
+    color: rgb(255, 255, 255);
+    font-size: 40px;
+    margin-right: -8%;
+}
+.hbtn{
+    width: 15%;
+    font-size: 15px;
+    font-weight: bold;
+    margin-right: -8%;
+    background-color: purple;
+    color: white;
+    
+}
+/* about */
+.apara{
+    font-size: 25px;
+    color:purple;
+}
+.d-block{
+    aspect-ratio: 3/2;
+    width: 100%;
 }
