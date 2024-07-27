@@ -46,3 +46,28 @@ box-sizing: border-box;
     aspect-ratio: 3/2;
     width: 100%;
 }
+/* products */
+.h1{
+    text-align: center;
+}
+.card img{
+    aspect-ratio: 3/2;
+}
+.card-title{
+    color: purple;
+}
+.card-text{
+    color:white;
+}
+.space div{
+    border: 10px solid white;
+}
+/* payment */
+.input-group-text{
+    background-color: purple;
+    color: white;
+}
+.discount{
+    border-radius: 500px;
+   
+}
