@@ -7,6 +7,7 @@ box-sizing: border-box;
 }
 .navbar{
     background-color: purple;
+    width: 99.9%;
 }
 .nav-link{
     color: white;
@@ -16,7 +17,7 @@ box-sizing: border-box;
 /* home */
 .bgimg{
     background-image: url('https://img.freepik.com/premium-vector/super-sale-banner-autumn-paper-design-maple-leaves_7714-174.jpg?uid=R156931880&ga=GA1.1.178416125.1721973271&semt=sph');
-    width: 98vw;
+    width: 98.7vw;
     height: 100vh;
     background-position: center;
     background-size: cover;
@@ -67,7 +68,29 @@ box-sizing: border-box;
     background-color: purple;
     color: white;
 }
+.iframe{
+    margin-left: 5px;
+    margin-bottom: 5px;
+}
 .discount{
     border-radius: 500px;
    
+}
+.h1{
+    text-align: center;
+    color: purple;
+    margin-top: 2%;
+}
+/* contacts */
+
+.iframe{
+  padding-left: 20%;
+  padding-bottom: 20%;
+    
+}
+.contact-h1{
+    text-align: center;
+    color: purple;
+    margin-top: -4%;
+    padding-bottom: 2%;
 }
